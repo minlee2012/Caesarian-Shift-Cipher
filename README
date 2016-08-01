@@ -1,0 +1,1 @@
+This is a program that will encrypt and decrypt simple shift ciphers, provided that you have the key. For decryption, I remove spaces and punctuation to provide heartier encryption. 
